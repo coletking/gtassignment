@@ -115,5 +115,18 @@ body{
     padding-right: 50px;
 }
 
+.version{
+    display: flex;
+    padding: 20px 0 0 0;
+}
+.version a{
+    padding-left: 20px;
+}
+
+.jobs-image img{
+    padding-top: 20px;
+}
+
+
 
 
