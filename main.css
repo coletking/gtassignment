@@ -141,7 +141,7 @@ body{
     padding-top: 20px;
 }
 .installation-discription p{
-   line-height: 30px;
+   line-height: 40px;
 }
 
 .installation-discription h5{
@@ -161,21 +161,22 @@ body{
 }
 
 .installation-sourceCode{
-    /* text-indent: 200px; */
-    width: 450px;
     padding-top: 30px;
+   
     
 }
 
 .code1{
     background-color: #e9e7ec;
     height: 60px;
+    
  }
 .code1 h6{
  font-size: 20px;
  font-weight: lighter;
  padding-left: 20px;
  overflow: visible ;
+
  text-overflow:"....";
 }
 
@@ -186,5 +187,12 @@ body{
     color: #0dcaf0;
     padding: 5px;
     margin-left: 400px;
+}
+
+.code11 img{
+    margin-right: 20px;
+}
+.addedlogo img{
+ margin: 50px 0 0 100px;
 }
 
