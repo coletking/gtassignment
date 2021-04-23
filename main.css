@@ -128,6 +128,116 @@ body{
 }
 
 
+.instalation-section{
+    width: 100%;
+    font-size: 16px;
+}
+
+.installation-body{
+    display: flex;
+    font-size: 20px;
+    box-sizing: border-box;
+    justify-content: space-around;
+
+    
+}
+
+
+.installation-discription{
+    font-size: 20px;
+    width: 40%;
+}
+.installation-discription h1{
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.installation-discription p{
+   line-height: 40px;
+}
+
+.installation-discription h5{
+    line-height: 30px;
+    padding-bottom: 10px;
+    font-size: 22px;
+ }
+
+.installation-discription button{
+    height:50px;
+    width: 240px;
+    border: 1px solid rgb(143, 143, 240);
+    color:  rgb(143, 143, 240);
+    font-size: 20px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.installation-sourceCode{
+    padding-top: 30px;
+   
+    
+}
+
+/* .code1{
+    background-color: #e9e7ec;
+    height: 60px;
+    
+ }
+.code1 h6{
+ font-size: 20px;
+ font-weight: lighter;
+ padding-left: 20px;
+ overflow: visible ;
+
+ text-overflow:"....";
+}
+
+.code1 button{
+    background-color: transparent;
+    border: 1px solid #0dcaf0;
+    font-size: 14px;
+    color: #0dcaf0;
+    padding: 5px;
+    margin-left: 400px;
+}
+
+.code11 img{
+    margin-right: 20px;
+}
+.addedlogo img{
+ margin: 50px 0 0 100px;
+}
+
+.footer{
+    width: 100%;
+    height: 180px;
+    background-color: #beaadd;
+}
+
+.footerbody{
+    width: 60%;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.footermain1 {
+    display: flex;
+    
+}
+
+.footermain1 a{
+    padding-left: 20px;
+    margin-top: 40px;
+}
+
+.footermain2 p{
+    padding-left: 20px;
+    margin-top: 20px;
+    color: white;
+} */
+
+
 
 
 .code1 button{
