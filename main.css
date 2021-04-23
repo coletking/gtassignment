@@ -115,67 +115,19 @@ body{
     padding-right: 50px;
 }
 
-.instalation-section{
-    width: 100%;
-    font-size: 16px;
-}
-
-.installation-body{
+.version{
     display: flex;
-    font-size: 20px;
-    box-sizing: border-box;
-    justify-content: space-around;
-
-    
+    padding: 20px 0 0 0;
+}
+.version a{
+    padding-left: 20px;
 }
 
-
-.installation-discription{
-    font-size: 20px;
-    width: 40%;
-}
-.installation-discription h1{
-    font-size: 40px;
-    font-weight: bold;
-    padding-bottom: 20px;
+.jobs-image img{
     padding-top: 20px;
 }
-.installation-discription p{
-   line-height: 40px;
-}
 
-.installation-discription h5{
-    line-height: 30px;
-    padding-bottom: 10px;
-    font-size: 22px;
- }
 
-.installation-discription button{
-    height:50px;
-    width: 240px;
-    border: 1px solid rgb(143, 143, 240);
-    color:  rgb(143, 143, 240);
-    font-size: 20px;
-    background-color: white;
-    margin-top: 20px;
-}
-
-.installation-sourceCode{
-    padding-top: 30px;
-   
-    
-}
-
-.code1{
-    background-color: #e9e7ec;
-    height: 60px;
-    
- }
-.code1 h6{
- font-size: 20px;
- font-weight: lighter;
- padding-left: 20px;
- overflow: visible ;
 
  text-overflow:"....";
 }
